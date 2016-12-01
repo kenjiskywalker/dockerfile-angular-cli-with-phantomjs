@@ -1,1 +1,1 @@
-# dockerfile-angular-cli
+# dockerfile-angular-cli-with-phantomjs
